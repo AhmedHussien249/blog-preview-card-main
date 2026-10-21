@@ -47,7 +47,7 @@ The images below are the challenge's design references, included in the `design/
 
 ### Links
 
-- **Live site:** [blog-preview-card-main-mu-eosin.vercel.app](https://blog-preview-card-main-mu-eosin.vercel.app/)
+- **Live site:** [blog-preview-card-main-mu-eosin.vercel.app](https://blog-preview-card-main-mocha-seven.vercel.app/)
 - **GitHub repository / solution source:** [AhmedHussien249/blog-preview-card-main](https://github.com/AhmedHussien249/blog-preview-card-main)
 - **Challenge:** [Frontend Mentor - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
